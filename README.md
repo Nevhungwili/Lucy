@@ -2,7 +2,7 @@
 
 tshidoshi
 
-nevhungwili
+nevhungwili  - very cool name!!
 
 both a local edit and online edit
 
