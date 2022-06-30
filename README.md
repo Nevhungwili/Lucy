@@ -4,4 +4,5 @@ tshidoshi
 
 nevhungwili
 
-a local edit
+both a local edit and online edit
+
